@@ -1,0 +1,1 @@
+Link Followed: https://www.simplifiedcoding.net/retrofit-android-example/
